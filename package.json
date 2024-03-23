@@ -1,0 +1,85 @@
+{
+  "name": "next-hotpack",
+  "displayName": "Next Hotpack 2024",
+  "description": "Best Next and Web Extensions",
+  "icon": "icon.webp",
+  "galleryBanner": {
+    "color": "#0273D4",
+    "theme": "dark"
+  },
+  "license": "SEE LICENSE IN LICENSE.md",
+  "version": "1.0.0",
+  "publisher": "ggoodwin",
+  "preview": false,
+  "pricing": "Free",
+  "engines": {
+    "vscode": "^1.50.0"
+  },
+  "keywords": [
+    "Next",
+    "React",
+    "JavaScript",
+    "Tailwind",
+    "JSON",
+    "HTML",
+    "XML"
+  ],
+  "categories": [
+    "Extension Packs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ggoodwin/next-hotpack"
+  },
+  "homepage": "https://greggoodwin.com",
+  "bugs": {
+    "url": "https://github.com/ggoodwin/next-hotpack/issues?q=label%3Abug"
+  },
+  "scripts": {
+    "package": "npx vsce package",
+    "publish": "npx vsce publish"
+  },
+  "extensionPack": [
+    "formulahendry.auto-close-tag",
+    "kevinkyang.auto-comment-blocks",
+    "steoates.autoimport",
+    "formulahendry.auto-rename-tag",
+    "deque-systems.vscode-axe-linter",
+    "aaron-bond.better-comments",
+    "leodevbro.blockman",
+    "kisstkondoros.vscode-codemetrics",
+    "streetsidesoftware.code-spell-checker",
+    "ms-azuretools.vscode-docker",
+    "dotenv.dotenv-vscode",
+    "usernamehw.errorlens",
+    "dbaeumer.vscode-eslint",
+    "HashiCorp.terraform",
+    "vincaslt.highlight-matching-tag",
+    "ecmel.vscode-html-css",
+    "ZainChen.json",
+    "ms-edgedevtools.vscode-edge-devtools",
+    "stringham.move-ts",
+    "pulkitgangwar.nextjs-snippets",
+    "bengreenier.vscode-node-readme",
+    "christian-kohler.npm-intellisense",
+    "quicktype.quicktype",
+    "christian-kohler.path-intellisense",
+    "esbenp.prettier-vscode",
+    "rvest.vs-code-prettier-eslint",
+    "mohsen1.prettify-json",
+    "Prisma.prisma",
+    "WillLuke.nextjs",
+    "bradlc.vscode-tailwindcss",
+    "meganrogge.template-string-converter",
+    "pmneo.tsimporter",
+    "redhat.vscode-xml",
+    "DotJoshJohnson.xml",
+    "redhat.vscode-yaml"
+  ],
+  "__metadata": {
+    "publisherId": "3ea8aec6-eb0b-4a64-bf6a-f7675b86b043",
+    "publisherDisplayName": "Greg Goodwin",
+    "updated": true,
+    "isPreReleaseVersion": false
+  }
+}
