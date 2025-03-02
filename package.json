@@ -8,7 +8,7 @@
     "theme": "dark"
   },
   "license": "SEE LICENSE IN LICENSE.md",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "ggoodwin",
   "preview": false,
   "pricing": "Free",
@@ -31,9 +31,12 @@
     "type": "git",
     "url": "https://github.com/ggoodwin/next-hotpack"
   },
-  "homepage": "https://www.ggn.dev",
+  "homepage": "https://www.greggoodwin.com",
   "bugs": {
     "url": "https://github.com/ggoodwin/next-hotpack/issues?q=label%3Abug"
+  },
+  "vsce": {
+    "dependencies": false
   },
   "scripts": {
     "package": "npx vsce package",
@@ -53,7 +56,19 @@
     "pmneo.tsimporter",
     "yoavbls.pretty-ts-errors",
     "jasonnutter.search-node-modules",
-    "fill-labs.dependi"
+    "pflannery.vscode-versionlens",
+    "ecmel.vscode-html-css",
+    "orta.vscode-jest",
+    "mohammadbaqer.better-folding",
+    "usernamehw.errorlens",
+    "yzhang.markdown-all-in-one",
+    "adrianwilczynski.toggle-hidden",
+    "adrianwilczynski.libman",
+    "codezombiech.gitignore",
+    "doggy8088.quicktype-refresh",
+    "alefragnani.bookmarks",
+    "aaron-bond.better-comments",
+    "dotenv.dotenv-vscode"
   ],
   "__metadata": {
     "publisherId": "3ea8aec6-eb0b-4a64-bf6a-f7675b86b043",

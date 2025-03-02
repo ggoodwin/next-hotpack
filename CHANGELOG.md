@@ -7,7 +7,18 @@ This project adheres to [Semantic Versioning].
 
 ## [Unreleased]
 
-- Will list future updates here
+## [1.0.2] - 2025-03-02
+
+### Added
+
+- [Pull Request Template](.github/pull_request.md)
+- Updated Extension List
+
+### Changed
+
+- Updated Version
+- Updated `README`
+- Updated `CONTRIBUTING`
 
 ## [1.0.1] - 2025-02-09
 
@@ -29,6 +40,7 @@ This project adheres to [Semantic Versioning].
 [semantic versioning]: https://semver.org/spec/v2.0.0.html
 
 <!-- Version -->
-[unreleased]: https://github.com/ggoodwin/next-hotpack/compare/v.1.0.1...develop
+[unreleased]: https://github.com/ggoodwin/next-hotpack/compare/v.1.0.2...master
+[1.0.2]: https://github.com/ggoodwin/next-hotpack/tree/v1.0.1...v1.0.2
 [1.0.1]: https://github.com/ggoodwin/next-hotpack/tree/v1.0.0...v1.0.1
 [1.0.0]: https://github.com/ggoodwin/next-hotpack/tree/v1.0.0
