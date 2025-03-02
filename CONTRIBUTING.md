@@ -2,6 +2,8 @@
 
 First off, thanks for taking the time to contribute! ❤️
 
+[Pull Request Template](.github/pull_request.md)
+
 All types of contributions are encouraged and valued. See the [Table of Contents](#table-of-contents) for different ways to help and details about how this project handles them. Please make sure to read the relevant section before making your contribution. It will make it a lot easier for me and smooth out the experience for all involved. The community looks forward to your contributions. 🎉
 
 > And if you like the project, but just don't have time to contribute, that's fine. There are other easy ways to support the project and show your appreciation, which I would also be very happy about:
@@ -26,7 +28,7 @@ All types of contributions are encouraged and valued. See the [Table of Contents
       - [How Do I Submit a Good Enhancement Suggestion?](#how-do-i-submit-a-good-enhancement-suggestion)
     - [Your First Code Contribution](#your-first-code-contribution)
     - [Improving The Documentation](#improving-the-documentation)
-  - [Styleguides](#styleguides)
+  - [Style Guides](#style-guides)
     - [Commit Messages](#commit-messages)
   - [Join The Project Team](#join-the-project-team)
   - [Attribution](#attribution)
@@ -119,7 +121,7 @@ If you'd like, I welcome any contributions. Please read the [Contributing] docum
 
 Coming Soon
 
-## Styleguides
+## Style Guides
 
 Coming Soon
 
@@ -153,4 +155,4 @@ This guide is based on the **contributing.md**. [Make Your Own]!
 [CONTRIBUTING]: https://github.com/ggoodwin/next-hotpack/blob/master/CONTRIBUTING.md
 [FORK]: https://github.com/ggoodwin/next-hotpack/fork
 [PULL REQUEST]: https://github.com/ggoodwin/next-hotpack/compare
-[TELEGRAM]: https://t.me/MessageGreg
+[TELEGRAM]: https://ggn.sh/tg
