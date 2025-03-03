@@ -5,7 +5,7 @@
 
 <h3 align="center">
   <samp>&gt; Hey There!, I am
-    <b><a target="_blank" href="https://www.greggoodwin.com">Greg Goodwin</a></b>
+    <b><a target="_blank" href="https://www.ggn.dev">Greg Goodwin</a></b>
   </samp>
 </h3>
 
@@ -13,7 +13,7 @@
 
 #### Profiles
 
-[![ggn](https://img.shields.io/badge/ggn.dev-663399?style=for-the-badge&logo=gatsby&logoColor=white)](https://ggn.dev)
+[![ggn](https://img.shields.io/badge/ggn.dev-663399?style=for-the-badge&logo=gatsby&logoColor=white)](https://www.ggn.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ggn.sh/li)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://ggn.sh/x)
 
